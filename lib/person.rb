@@ -1,3 +1,5 @@
+require_relative '../lib/dog'
+
 class Person
   def name 
     @name
